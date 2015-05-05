@@ -1,4 +1,4 @@
 # testing_testing_123
 My Little Repository
 
-Pink repository with powder blue curly hair.
+Pink repository with curly powder blue hair.
